@@ -23,7 +23,6 @@ I'm currently building **Dataset Doctor**, a tool that detects common tabular-da
 
 | Project | What it does |
 | --- | --- |
-| [Dataset Doctor](https://github.com/Naresh-Kumar17/Dataset-Doctor) | Detects tabular-data issues and tests candidate fixes before you apply them. |
 | [Karachi Air Quality Forecasting](https://github.com/Naresh-Kumar17/Air_Quality_Forcasating-) | Forecasts Karachi PM2.5 and flags unusual pollution spikes with a live dashboard. |
 | [Road Accident Severity](https://github.com/Naresh-Kumar17/Road-Accident-Severity) | Explores UK road-accident data and builds models to study injury severity. |
 | [SVM Handwritten Digits](https://github.com/Naresh-Kumar17/svm-handwritten-digits) | Trains an SVM digit classifier and includes an interactive draw-a-digit demo. |
