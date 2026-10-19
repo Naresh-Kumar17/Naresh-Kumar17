@@ -53,7 +53,7 @@ I'm an **aspiring Data Scientist** and a **3rd-semester student at FAST NUCES**.
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Kumar17&show_icons=true&hide_border=true&bg_color=0d1117&title_color=aa9bef&icon_color=aa9bef&text_color=c9d1d9" width="400" alt="Naresh's GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Kumar17&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=aa9bef&icon_color=aa9bef&text_color=c9d1d9" width="400" alt="Naresh's GitHub statistics">
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -66,7 +66,7 @@ I'm an **aspiring Data Scientist** and a **3rd-semester student at FAST NUCES**.
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Naresh-Kumar17&hide_border=true&background=0d1117&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&sideLabels=c9d1d9&dates=8b949e" width="480" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=Naresh-Kumar17&hide_border=true&background=0d1117&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&currStreakNum=aa9bef&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="480" alt="GitHub contribution streak">
 
 </div>
 
