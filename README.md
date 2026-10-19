@@ -1,77 +1,43 @@
+## Interface engineer
+
 <div align="center">
 
-<a href="https://github.com/Naresh-Kumar17">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Naresh+Kumar+-+Aspiring+Data+Scientist;FAST+NUCES+%7C+Learning+by+Building;Turning+data+into+insight" alt="Naresh Kumar - Aspiring Data Scientist">
-</a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=naresh-kumar17&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F114923094%3Fv%3D4" alt="naresh-kumar17 hero visual" />
+</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/naresh-kumar-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/Brahmannaru/"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=aa9bef" alt="Facebook"></a>&nbsp;&nbsp;
-<a href="mailto:wdnaresh@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Naresh-Kumar17&style=flat&color=aa9bef&label=profile+views" alt="Profile views">
+<h1>Naresh Kumar</h1>
+<p><b>Product-minded developer</b></p>
 
 </div>
 
----
+## How I work
 
-## Hey, I'm Naresh 👋
+> 🎓 Data Science student at FAST NUCES | 📊 Passionate about Machine Learning, AI, and Data Analytics | 💻 Building projects &amp; learning every day
 
-I'm an **aspiring Data Scientist** and a **3rd-semester student at FAST NUCES**. I'm passionate about uncovering insights through data, algorithms, and continuous learning.
+- 📍 Based in **Karachi **
+- 👥 **1** followers · **0** following
 
-- 🎓 Studying Data Science at **FAST NUCES**
-- 📊 Exploring data analysis and visualization with Python
-- 🧠 Interested in algorithms, problem-solving, and machine learning
-- 🌱 Building my skills through practice and projects
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/naresh-kumar-ds/) or [email me](mailto:wdnaresh@gmail.com)
+*Small, useful work over vague claims.*
 
-<div align="center">
-
-## My toolkit
-
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python&perline=6" alt="C++, C, HTML, CSS, JavaScript, and Python">
-
-<br><br>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=aa9bef)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=aa9bef)
-
-</div>
-
----
-
-<div align="center">
-
-## Signals
+## Selected interfaces
 
 <table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Kumar17&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=aa9bef&icon_color=aa9bef&text_color=c9d1d9" width="400" alt="Naresh's GitHub statistics">
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Kumar17&layout=compact&hide_border=true&bg_color=0d1117&title_color=aa9bef&text_color=c9d1d9" width="400" alt="Most used languages">
-
-</td>
-</tr>
+<tr><td width="32%"><b><a href="https://github.com/Naresh-Kumar17/Bank-Management-System-C-Raylib">Bank-Management-System-C-Raylib</a></b></td><td>A selected project from this GitHub profile.<br/><sub>C · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Naresh-Kumar17/Cricket-Match-Management-System">Cricket-Match-Management-System</a></b></td><td>A selected project from this GitHub profile.<br/><sub>C++ · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Naresh-Kumar17/svm-handwritten-digits">svm-handwritten-digits</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Jupyter Notebook · 0 stars</sub></td></tr>
 </table>
 
-<br>
+## Frontend toolkit
 
-<img src="https://streak-stats.demolab.com?user=Naresh-Kumar17&hide_border=true&background=0d1117&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&currStreakNum=aa9bef&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="480" alt="GitHub contribution streak">
+`Jupyter Notebook` ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) `Makefile` ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-</div>
+## Let’s build something
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=naresh-kumar17&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F114923094%3Fv%3D4" alt="naresh-kumar17 social visual" />
+</p>
 
-<div align="center">
-<sub>Learning, building, and growing with data · Naresh Kumar</sub>
-</div>
+<a href="https://github.com/naresh-kumar17">GitHub</a>
+
+<p align="center"><sub>Naresh Kumar · Frontend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
