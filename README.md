@@ -17,9 +17,7 @@
 
 I'm a Data Science student at **FAST-NUCES**, based in Karachi, Pakistan. I enjoy turning real-world questions into careful analysis, useful machine-learning projects, and tools people can actually try.
 
-Real-time **air quality forecasting for Karachi**: hourly PM2.5 forecasts (1 to 72 hours ahead) using SARIMA, with Isolation Forest spike detection and baseline models compared on a time-ordered test set.
-Built with Python, Jupyter, and Streamlit, using live and historical data from the Open-Meteo API.
-
+🔭 Currently working on a real-time air quality forecasting project for Karachi, using SARIMA, Isolation Forest, and a live Streamlit dashboard.
 ## Selected projects
 
 | Project | What it does |
