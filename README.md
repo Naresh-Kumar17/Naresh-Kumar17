@@ -163,16 +163,6 @@ Object-oriented simulation and tracking system for live cricket match scorecards
 
 <br/>
 
-## 🗓️ Contribution History
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/github-contribution-grid-snake-dark.svg" alt="Contribution History" width="100%"/>
-
-<sub>A year of commits, one square at a time.</sub>
-
-</div>
-
 <br/>
 
 ## 🌐 Let's Connect
