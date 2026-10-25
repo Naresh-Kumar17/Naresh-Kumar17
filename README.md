@@ -161,7 +161,13 @@ Object-oriented simulation and tracking system for live cricket match scorecards
 
 </div>
 
-<br/>
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/activity-graph.svg" alt="Activity Graph" width="100%"/>
+
+</div>
 
 <br/>
 
