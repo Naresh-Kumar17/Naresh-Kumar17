@@ -138,16 +138,7 @@ Object-oriented simulation and tracking system for live cricket match scorecards
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/stats.svg" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/streak.svg" />
-</td>
-</tr>
-</table>
+<img width="60%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/streak.svg" alt="Naresh Kumar's GitHub Streak" />
 
 </div>
 
