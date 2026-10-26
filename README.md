@@ -147,33 +147,21 @@ Object-oriented simulation and tracking system for live cricket match scorecards
 <img width="100%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/streak.svg" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/stats-card.svg" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img width="55%" src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/top-langs.svg" />
-</td>
-</tr>
 </table>
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/Naresh-Kumar17">
-  <img src="https://raw.githubusercontent.com/Naresh-Kumar17/Naresh-Kumar17/output/activity-graph.svg" alt="Naresh Kumar's Activity Graph" width="100%"/>
-</a>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Naresh Kumar's 3D Contribution Graph" width="100%"/>
 
 <br/>
 
-<sub>Contributions and coding activity visualized across recent weeks.</sub>
+<sub>Live isometric 3D visualization of coding contributions, updated daily.</sub>
 
 </div>
 
