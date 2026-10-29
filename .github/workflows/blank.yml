@@ -56,10 +56,7 @@ jobs:
             fi
           }
 
-          fetch_safe "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naresh-Kumar17&theme=github_dark" "dist/stats.svg"
           fetch_safe "https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Kumar17&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" "dist/streak.svg"
-          fetch_safe "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naresh-Kumar17&theme=github_dark" "dist/top-langs.svg"
-          fetch_safe "https://github-readme-stats.vercel.app/api?username=Naresh-Kumar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" "dist/stats-card.svg"
 
       - name: Confirm what will be published
         run: ls -la dist
