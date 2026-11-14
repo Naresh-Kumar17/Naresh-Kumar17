@@ -2,7 +2,7 @@ name: Update README Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
+    - cron: "59 23 * * *"   # runs daily at 23:59 UTC
   workflow_dispatch:        # lets you trigger it manually
   push:
     branches:
