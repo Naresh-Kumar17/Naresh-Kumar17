@@ -2,7 +2,7 @@ name: Update README Assets
 
 on:
   schedule:
-    - cron: "59 23 * * *"   # runs daily at 23:59 UTC
+    - cron: "17 * * * *"    # refresh streak stats hourly
   workflow_dispatch:        # lets you trigger it manually
   push:
     branches:
@@ -56,7 +56,7 @@ jobs:
             fi
           }
 
-          fetch_safe "https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Kumar17&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" "dist/streak.svg"
+          fetch_safe "https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Kumar17&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&timezone=Asia%2FKarachi&refresh=${GITHUB_RUN_ID}" "dist/streak.svg"
 
       - name: Confirm what will be published
         run: ls -la dist
